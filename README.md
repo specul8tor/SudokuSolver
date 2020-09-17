@@ -1,3 +1,3 @@
 # SudokuSolver
-Solves Sudoku Board using backtracking algorithm
-Also GUI version made
+Solves Sudoku Board using backtracking algorithm.
+ Also GUI version made
